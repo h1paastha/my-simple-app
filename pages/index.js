@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>Welcome to My Simple Next.js App</h1>
+      <h1>Welcome to Attacker</h1>
       <h2>About This Project</h2>
       <p>This is a basic Next.js application with just a few headings.</p>
       
